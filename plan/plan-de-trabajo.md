@@ -2,9 +2,9 @@
 
 | Integrante | Rol | Qué hace |
 |---|---|---|
-| Nombre 1 | Coordinación y repositorio | Crea el repo, entrega el enlace |
-| Nombre 2 | Máquinas virtuales y red | Instala las dos VMs |
-| Nombre 3 | Docker, scripts y sitio | Scripts, Dockerfile, videos |
+| juan andres sanchez silva | Coordinación y repositorio | Crea el repo, entrega el enlace |
+| yeri leandro carabali | Máquinas virtuales y red | Instala las dos VMs |
+| juan esteban velasco claros | Docker, scripts y sitio | Scripts, Dockerfile, videos |
 
 ## Fechas de los sprints
 | Sprint | Cierre |
